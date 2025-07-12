@@ -1,0 +1,97 @@
+Accept: */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cache-Control: no-cache
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+DNT: 1
+From: googlebot(at)googlebot.com
+Origin: https://google.com
+Pragma: no-cache
+Referer: https://www.google.com/
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+X-Forwarded-For: 127.0.0.1
+X-Requested-With: XMLHttpRequest
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: none
+Sec-Fetch-User: ?1
+TE: trailers
+X-Real-IP: 1.1.1.1
+X-Client-IP: 1.1.1.1
+X-Remote-IP: 1.1.1.1
+X-Originating-IP: 1.1.1.1
+Forwarded: for=1.1.1.1;proto=http;by=1.1.1.1
+True-Client-IP: 1.1.1.1
+X-Forwarded-Host: example.com
+X-Forwarded-Proto: https
+X-HTTP-Method-Override: GET
+X-ATT-DeviceId: GT-P7320/P7320XXLPG
+X-Correlation-ID: test-correlation-id
+X-Request-ID: test-request-id
+X-Amzn-Trace-Id: Root=1-67891233-abcdef012345678912345678
+X-Powered-By: Express
+Via: 1.1 google
+If-Modified-Since: Wed, 21 Oct 2020 07:28:00 GMT
+If-None-Match: "5d8c72a5edda8"
+Save-Data: on
+X-Wap-Profile: http://wap.samsungmobile.com/uaprof/
+Authorization: Bearer token-test
+Range: bytes=0-1024
+Cookie: test_cookie=true
+Sec-CH-UA: "Chromium";v="110", "Not:A-Brand";v="99"
+Sec-CH-UA-Mobile: ?0
+Sec-CH-UA-Platform: "Windows"
+CDN-Loop: cloudflare
+Timing-Allow-Origin: *
+ETag: W/"123456789"
+Last-Modified: Thu, 01 Jan 1970 00:00:00 GMT
+Link: <https://api.example.com>; rel=preload
+Content-Language: en-US
+X-Debug: true
+Client-IP: 1.2.3.4
+X-Real-Host: test.net
+Fastly-Debug-Digest: abcdef123456
+CDN-PullZone: 12345
+X-Cache: HIT
+X-Cache-Hits: 1
+X-Served-By: edge-cache
+X-Timer: S123456789
+Forwarded-For: 2.2.2.2
+Alt-Svc: h3=":443"; ma=86400
+X-Forwarded-Ssl: on
+Upgrade: websocket
+X-Cluster-Client-Ip: 1.2.3.4
+Expect: 100-continue
+Referrer-Policy: no-referrer
+X-Purpose: preview
+X-Device-User-Agent: Mobile
+X-Requested-With: com.example.app
+X-Api-Version: 2
+X-App-Platform: android
+X-App-Version: 2.1.3
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-XSS-Protection: 1; mode=block
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET, POST
+Access-Control-Allow-Headers: Content-Type
+Content-Security-Policy: default-src https:;
+Strict-Transport-Security: max-age=31536000
+Public-Key-Pins: max-age=5184000
+Content-Disposition: inline
+Content-Encoding: gzip
+X-Foo: bar
+X-Bar: baz
+Server: nginx
+Server-Timing: cache;desc="HIT"
+Alt-Used: test.example.com
+X-Forwarded-Server: proxy-server
+X-Download-Options: noopen
+X-Permitted-Cross-Domain-Policies: none
+X-UA-Compatible: IE=edge
+X-UIDH: test-header
+X-Csrf-Token: token-example
+X-Do-Not-Track: 1
+Device-Stock-UA: Mozilla/5.0 (Linux; Android 9)
